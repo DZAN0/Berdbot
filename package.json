@@ -1,0 +1,24 @@
+{
+  "name": "My bot",
+  "version": "1.0.0",
+  "description": "dzan bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^1.7.0",
+    "@discordjs/rest": "^2.2.0",
+    "@types/node": "^18.0.6",
+    "chalk": "^4.1.2",
+    "discord-api-types": "^0.37.65",
+    "discord.js": "^13.17.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "node-fetch": "^3.2.6",
+    "repl.uptime": "^0.0.12"
+  }
+}
